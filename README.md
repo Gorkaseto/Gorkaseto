@@ -2,7 +2,7 @@
   <img id='gif' align="right" src="https://static.wikia.nocookie.net/digimon/images/e/e5/Agumon_Hakase_b.jpg/revision/latest?cb=20221130191918&path-prefix=es" width="240">
 <header align="left">
 <ul width="45%">
-  <h2 align="left">Hey! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style></h2>
+  <h2 align="left">Hey! Welcome to my GitHub<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style></h2>
   <h1 align="left">I'm a computer science specialized computer engineer, working at the moment creating VR experiencies in Unity <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" width="40"></h1>
 </ul>
     <h3 align="left">
